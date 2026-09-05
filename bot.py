@@ -11,7 +11,7 @@ from urllib.parse import urlparse
 # Config
 API_ID = 27839427
 API_HASH = "d30158d31208d18c78cbc5248b9704d2"
-BOT_TOKEN = os.getenv("8946808836:AAEiABDNny7PrZ77cYfm-rwbhNP9DeAg2mY")
+BOT_TOKEN = "8946808836:AAEiABDNny7PrZ77cYfm-rwbhNP9DeAg2mY"
 
 # Files
 PREMIUM_FILE = "premium.json"
