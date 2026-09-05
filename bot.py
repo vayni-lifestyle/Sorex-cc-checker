@@ -2221,7 +2221,7 @@ async def main():
         'save_approved_card': save_approved_card,
         'get_cc_limit': get_cc_limit_wrapper,
         'pin_charged_message': pin_charged_message,
-        'ADMIN_ID': ADMIN_ID,
+        'ADMIN_ID': 8091186076,
         'load_json': load_json,
         'save_json': save_json
     }
