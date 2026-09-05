@@ -1,3 +1,4 @@
 telethon
 aiohttp
+aiofiles
 requests
